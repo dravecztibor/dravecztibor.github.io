@@ -1,0 +1,61 @@
+Választhatsz 2 közül:
+
+1. egy tetszõleges json-t keress pl. gugliba: json football vagy json star wars vagy json football api github....stb.
+json, api, github szavak lehetnek benne
+mappa, benne index.html, alap.js, stilus.css
+
+- Jeleníts meg a json-ból egy szöveget pl. név
+- div-be tedd (bootstrap grid col-sm-?) vagy táblázatba
+- jeleníts meg képet vagy linket, ha nincs akkor még 2 valamilyen adatot pl. szöveg, szám
+
+- ha van a jsonban kép, kattintásra nagyítsa, ha van link kattintásra ugorjon oda
+- ha nincs kép vagy link, akkor:
+minden json adathoz szúrj be egy kis ikon-t/képet, ha azon kattintunk
+modális ablakban jelenítse meg a json-nak azt a sorát, részletesen!
+
+Alkalmazz css-ben, amire akarod, 5-öt ezekbõl:
+- szegély
+- betûméret
+- belsõ margó
+- külsõ margó
+- háttérszín
+- árnyék
+- nagybetû
+- háttérkép
+- középre igazítás
+- karakter típus
+
+Használj legalább 1 helyen egyedi osztályt, vagy azonosítót!
+
+
+2. mappa neve noveny, benne: index.html, alap.js, stilus.css
+
+https://github.com/android/sunflower/blob/main/app/src/main/assets/plants.json
+
+-Jelenítsd meg az növény nevét
+-div-ekbe tedd (bootstrap grid col-sm-?)
+-az növény képét tedd ki, alatta 
+
+
+-a képen kattintásra, nagyítsa ki, a linken kattintásra ugorjon oda!
+
+Alkalmazz css-ben, amire akarod, 5-öt ezekbõl:
+- szegély
+- betûméret
+- belsõ margó
+- külsõ margó
+- háttérszín
+- árnyék
+- nagybetû
+- háttérkép
+- középre igazítás
+- karakter típus
+
+Használj legalább 1 helyen egyedi osztályt, vagy azonosítót!
+
+
+!!!!!!!!!!!!!!!
+Tedd fel sajatneved.github.io-ra,
+teszteld: pl. sajatneved.github.io/elefant címen!
+A lapod LINKJÉT tedd föl classroomra!
+Szép legyen!!!!
